@@ -32,6 +32,7 @@ App-V 5.x Recipes
 | Microsoft OneNote 2010  | http://fbinotto.blogspot.com.au/2013/12/sequencing-microsoft-onenote-with-app-v.html  |
 | Microsoft Visual Studio 2012  | https://t3chn1ck.wordpress.com/2014/01/25/app-v-5-0-sequencing-visual-studio-2012/  |
 | Mozilla Firefox  | http://stealthpuppy.com/sequencing-mozilla-firefox-with-app-v-5-x/  |
+| Mozilla Firefox in Kiosk Mode | http://rorymon.com/blog/?p=3551  |
 | Notepad++  | http://rorymon.com/blog/?page_id=2411   |
 | Opera 27  | https://ittechlog.wordpress.com/2015/02/21/sequencing-opera-27/  |
 | QRS nVivo 10  | http://techcenter.qsrinternational.com/desktop/nv10/nv10_microsoft_app_v_deployment.htm  |
