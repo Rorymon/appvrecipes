@@ -47,6 +47,7 @@ App-V 5.x Recipes
 | SQL Management Studio 2014  | http://xenappblog.com/2015/sequencing-sql-server-management-studio-2014/  |
 | TOAD for Oracle 12.1  | https://social.technet.microsoft.com/Forums/en-US/708d1e6f-c1e0-44de-9fa9-78e9a6f91096/sequencing-toad-for-oracle-121-with-appv-50?forum=prescriptiveguidance  |
 | UltraEdit  | https://social.technet.microsoft.com/Forums/en-US/7d9e8b47-4274-4483-b429-2f640e189368/sequencing-ultraedit-versions-19-20-or-21-with-appv-5?forum=prescriptiveguidance"  |
+| Visual Studio Code 1.7.2  | https://social.technet.microsoft.com/Forums/en-US/7326f257-bbab-4181-8c89-6ecb0e9a5846/recipe-visual-studio-code-172-on-appv-51?forum=mdopappv  |
 | Visual FoxPro 9.0 SP2  | http://rorymon.com/blog/?page_id=2066  |
 | VMware View Client 5.x with Broker History  | http://fbinotto.blogspot.com.au/2014/08/sequencing-vmware-view-client-5x-with.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed:+FelipeBinottosBlog+(Felipe+Binotto's+Blog)   |
 | VMware vSphere Client  | https://social.technet.microsoft.com/Forums/en-US/950a0f32-9a9f-4c3e-9c87-076512377813/sequencing-multiple-versions-of-the-vmware-vsphere-client-and-reducing-the-size-of-the-final?forum=prescriptiveguidance  |
