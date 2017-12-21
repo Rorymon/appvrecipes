@@ -1,0 +1,8 @@
+title: Appvrecipes
+description: App-V Recipes
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-dinky
+
+gems:
+  - jekyll-mentions
