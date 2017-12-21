@@ -7,12 +7,14 @@ App-V 5.x Recipes
 | Adobe PhotoShop CS5  | https://ittechlog.wordpress.com/2013/10/11/virtualize-adobe-photoshop-cs5-using-microsoft-app-v-5-0/  |
 | Adobe PhotoShop CS6  | http://www.vroom.cc/wordpress/sequencing-adobe-photoshop-cs6/  |
 | AutoDesk AutoCAD 2015  | http://www.tmurgent.com/TMBlog/?p=2073  |
+| AutoDesk AutoCAD 2016/2017  | http://www.tmurgent.com/TmBlog/?p=2701  |
 | Apple iTunes 11.0  | http://stealthpuppy.com/sequencing-apple-itunes-11-with-app-v-5/  |
 | ArcReader 10.2  | http://www.applepie.se/arcreader-10-2-sequenced  |
 | Articulate Storyline  | http://www.applepie.se/sequence-articulate-storyline  |
 | Bizagi Modeler 2.3.0.3  | http://naevette.com.au/2013/05/28/sequencing-bizagi-modeler-2-3-0-3/  |
 | DWG TrueView 2015  | http://ryanwill.com/?p=126  |
 | Ecowin Pro 6  | http://www.applepie.se/sequence-ecowin-pro-6  |
+| Epic Hyperspace 2012  | http://trentent.blogspot.ca/2015/07/appv5-recipe-for-epic-2012.html  |
 | Erdas Imagine 2015  | https://social.technet.microsoft.com/Forums/en-US/af8fa299-4f81-4b0a-87f4-c9fbfc13b918/erdas-imagine-2015?forum=prescriptiveguidance  |
 | Evernote 5.4.0.3698  | http://rorymon.com/blog/?page_id=2014 |
 | FileZilla 3.8.0  | http://rorymon.com/blog/?page_id=1890   |
@@ -24,6 +26,7 @@ App-V 5.x Recipes
 | Google Chrome 37  | https://social.technet.microsoft.com/Forums/en-US/ac6cdb60-f7d2-40b3-a5ba-8418d449eb41/appv-50-recipe-google-chrome-enterprise-v37?forum=prescriptiveguidance  |
 | Google Earth 6.2.2.6613  | http://naevette.com.au/2013/07/01/sequencing-google-earth-ec-6-2-2-6613/  |
 | ImgBurn  | http://packageology.com/2014/08/sometimes-fix-crashing-sequencer-imgburn-recipe/  |
+| IBM DB2 11.1 64-bit  | https://social.technet.microsoft.com/Forums/en-US/ba1e579a-4702-4620-a22d-4fdb8b901b43/appv5-db2-111-64bit?forum=prescriptiveguidance  |
 | Java Runtime  | http://packageology.com/2014/02/sequencing-java-definitive-guide-part-3-restricting-access-insecure-java-versions/  |
 | KeePass  | https://social.technet.microsoft.com/Forums/en-US/021594f0-2f4f-4d44-8199-07ef6e48854c/howto-sequence-keepass-with-appv-5?forum=prescriptiveguidance   |
 | Microsoft Office 2010 in VDI  | https://geeksilver.wordpress.com/2013/05/22/how-to-install-office-2010-to-vdi-via-app-v/  |
@@ -50,3 +53,4 @@ App-V 5.x Recipes
 | Visual FoxPro 9.0 SP2  | http://rorymon.com/blog/?page_id=2066  |
 | VMware View Client 5.x with Broker History  | http://fbinotto.blogspot.com.au/2014/08/sequencing-vmware-view-client-5x-with.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed:+FelipeBinottosBlog+(Felipe+Binotto's+Blog)   |
 | VMware vSphere Client  | https://social.technet.microsoft.com/Forums/en-US/950a0f32-9a9f-4c3e-9c87-076512377813/sequencing-multiple-versions-of-the-vmware-vsphere-client-and-reducing-the-size-of-the-final?forum=prescriptiveguidance  |
+| WinZip v22  | http://packageology.com/2017/11/sequencing-winzip-22/  |
