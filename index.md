@@ -1,8 +1,8 @@
-## App-V 5.x Recipes
+**App-V 5.x Recipes**
 
 | **Application Name**  | **App-V Recipe** |
 |---|---|
-| **7-Zip 9.20**  | [http://rorymon.com/blog/?page_id=1953](http://rorymon.com/blog/?page_id=1953) |
+| **7-Zip 9.20**  | [Rorymon Receipe](http://rorymon.com/blog/?page_id=1953) |
 | **Adobe Acrobat XI**  | [http://www.applepie.se/acrobat-xi-and-app-v-5/](http://www.applepie.se/acrobat-xi-and-app-v-5/ )  |
 | **Adobe PhotoShop CS5**  | [https://ittechlog.wordpress.com/2013/10/11/virtualize-adobe-photoshop-cs5-using-microsoft-app-v-5-0/](https://ittechlog.wordpress.com/2013/10/11/virtualize-adobe-photoshop-cs5-using-microsoft-app-v-5-0/)  |
 | **Adobe PhotoShop CS6**  | http://www.vroom.cc/wordpress/sequencing-adobe-photoshop-cs6/  |
