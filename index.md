@@ -12,6 +12,8 @@ App-V 5.x Recipes
 | ArcReader 10.2  | http://www.applepie.se/arcreader-10-2-sequenced  |
 | Articulate Storyline  | http://www.applepie.se/sequence-articulate-storyline  |
 | Bizagi Modeler 2.3.0.3  | http://naevette.com.au/2013/05/28/sequencing-bizagi-modeler-2-3-0-3/  |
+| Corel Paintshop Pro X4 | https://ictworkspace.wordpress.com/2015/09/15/recipe-corel-paintshop-pro-x4/  |
+| Devolutions RemoteDesktop Manager  | https://ictworkspace.wordpress.com/2018/03/25/recipe-devolutions-remotedesktopmanager/  |
 | DWG TrueView 2015  | http://ryanwill.com/?p=126  |
 | Ecowin Pro 6  | http://www.applepie.se/sequence-ecowin-pro-6  |
 | Epic Hyperspace 2012  | http://trentent.blogspot.ca/2015/07/appv5-recipe-for-epic-2012.html  |
@@ -25,6 +27,7 @@ App-V 5.x Recipes
 | Google Chrome 36  | http://ryanwill.com/?p=202  |
 | Google Chrome 37  | https://social.technet.microsoft.com/Forums/en-US/ac6cdb60-f7d2-40b3-a5ba-8418d449eb41/appv-50-recipe-google-chrome-enterprise-v37?forum=prescriptiveguidance  |
 | Google Earth 6.2.2.6613  | http://naevette.com.au/2013/07/01/sequencing-google-earth-ec-6-2-2-6613/  |
+| Greenshot 1.2  | https://ictworkspace.wordpress.com/2018/03/25/packaging-greenshot/  |
 | ImgBurn  | http://packageology.com/2014/08/sometimes-fix-crashing-sequencer-imgburn-recipe/  |
 | IBM DB2 11.1 64-bit  | https://social.technet.microsoft.com/Forums/en-US/ba1e579a-4702-4620-a22d-4fdb8b901b43/appv5-db2-111-64bit?forum=prescriptiveguidance  |
 | Java Runtime  | http://packageology.com/2014/02/sequencing-java-definitive-guide-part-3-restricting-access-insecure-java-versions/  |
@@ -53,4 +56,5 @@ App-V 5.x Recipes
 | Visual FoxPro 9.0 SP2  | http://rorymon.com/blog/?page_id=2066  |
 | VMware View Client 5.x with Broker History  | http://fbinotto.blogspot.com.au/2014/08/sequencing-vmware-view-client-5x-with.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed:+FelipeBinottosBlog+(Felipe+Binotto's+Blog)   |
 | VMware vSphere Client  | https://social.technet.microsoft.com/Forums/en-US/950a0f32-9a9f-4c3e-9c87-076512377813/sequencing-multiple-versions-of-the-vmware-vsphere-client-and-reducing-the-size-of-the-final?forum=prescriptiveguidance  |
+| Wellnomics Workspace 5.03  | http://packageology.com/2017/11/sequencing-winzip-22/  |
 | WinZip v22  | http://packageology.com/2017/11/sequencing-winzip-22/  |
