@@ -1,4 +1,4 @@
-##App-V 5.x Recipes
+## App-V 5.x Recipes
 
 | **Application Name**  | **App-V Recipe** |
 |---|---|
