@@ -6,7 +6,7 @@
 | **Adobe Acrobat XI**  | [http://www.applepie.se/acrobat-xi-and-app-v-5/](http://www.applepie.se/acrobat-xi-and-app-v-5/ )  |
 | **Adobe PhotoShop CS5**  | [https://ittechlog.wordpress.com/2013/10/11/virtualize-adobe-photoshop-cs5-using-microsoft-app-v-5-0/](https://ittechlog.wordpress.com/2013/10/11/virtualize-adobe-photoshop-cs5-using-microsoft-app-v-5-0/)  |
 | **Adobe PhotoShop CS6**  | [http://www.vroom.cc/wordpress/sequencing-adobe-photoshop-cs6/](http://www.vroom.cc/wordpress/sequencing-adobe-photoshop-cs6/)  |
-| **AutoDesk AutoCAD 2015**  | [http://www.tmurgent.com/TMBlog/?p=2073] (http://www.tmurgent.com/TMBlog/?p=2073)  |
+| **AutoDesk AutoCAD 2015**  | [http://www.tmurgent.com/TMBlog/?p=2073](http://www.tmurgent.com/TMBlog/?p=2073)  |
 | **AutoDesk AutoCAD 2016/2017**  | [http://www.tmurgent.com/TmBlog/?p=2701](http://www.tmurgent.com/TmBlog/?p=2701)  |
 | **Apple iTunes 11.0**  | [http://stealthpuppy.com/sequencing-apple-itunes-11-with-app-v-5/](http://stealthpuppy.com/sequencing-apple-itunes-11-with-app-v-5/)  |
 | **ArcReader 10.2**  | [http://www.applepie.se/arcreader-10-2-sequenced](http://www.applepie.se/arcreader-10-2-sequenced)  |
